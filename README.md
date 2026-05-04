@@ -77,10 +77,10 @@ no denial-of-service was performed at any point.
 ##  Auditor
 
 **Mack (Siva Sanjay Muthu T)**  
-Future Interns — Cybersecurity Intern (2026)  
+Cybersecurity Intern (2026)  
  [LinkedIn](https://linkedin.com/in/siva-sanjay-muthu-t-823318304)  
  [GitHub](https://github.com/mackshema)
 
 ---
 
-*Future Interns · Cybersecurity Task 1 · 2026*
+*Cybersecurity Task 1 · 2026*
