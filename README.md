@@ -1,5 +1,5 @@
 #  Vulnerability Assessment Report — cyberbase-nine.vercel.app
-### Future Interns Cybersecurity Task 1 (2026)
+### Day 1  Cybersecurity Task 1 (2026)
 
 ![Assessment Type](https://img.shields.io/badge/Assessment-Passive%20Read--Only-blue)
 ![Tools](https://img.shields.io/badge/Tools-Nmap%20%7C%20ZAP%20%7C%20SecurityHeaders-navy)
@@ -9,9 +9,6 @@
 ---
 
 ##  About This Report
-
-This repository contains the full Vulnerability Assessment Report produced  
-as part of **Future Interns Cybersecurity Task 1 (2026)**.
 
 The assessment was conducted against a **live web application** using  
 **passive, read-only techniques only** — no exploitation, no brute force,  
