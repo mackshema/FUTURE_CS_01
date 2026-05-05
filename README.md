@@ -77,7 +77,7 @@ no denial-of-service was performed at any point.
 ##  Auditor
 
 **Mack (Siva Sanjay Muthu T)**  
-Cybersecurity Intern (2026)  
+Cybersecurity (2026)  
  [LinkedIn](https://linkedin.com/in/siva-sanjay-muthu-t-823318304)  
  [GitHub](https://github.com/mackshema)
 
